@@ -6,6 +6,10 @@ extern Hazel::Application* Hazel::CreateApplication();
 
 int main(int argc, char** argv)
 {
+	Hazel::Log::Init();
+	HZ_CORE_WARN("Hello from Hazel Engine!");
+	HZ_CRITICAL("Arghhhhh from client app!");
+
 	auto app = Hazel::CreateApplication();
 	app->Run();
 
