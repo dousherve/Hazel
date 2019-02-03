@@ -1,2 +1,2 @@
 # Hazel
-Hazel Game Engine - TheCherno Game Engine Series
+Hazel Game Engine - TheCherno [Hazel](https://github.com/TheCherno/Hazel) Series
